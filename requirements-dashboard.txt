@@ -1,0 +1,2 @@
+# Dashboard dependencies (install into project .venv when approved)
+streamlit>=1.32.0
